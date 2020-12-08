@@ -1,0 +1,15 @@
+package com.springdemo.mvc;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HelloWorldController {
+
+	// need a controller method to show the intitial form
+	@RequestMapping
+	public String showForm() {
+		return "helloworld-form";
+	}
+	
+	// need a controller method to process the HTML form
+}

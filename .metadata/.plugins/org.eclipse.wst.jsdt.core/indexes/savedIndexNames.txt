@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+/Users/diwakar/Desktop/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3246518651.index
+3246518651.index
+557173393.index

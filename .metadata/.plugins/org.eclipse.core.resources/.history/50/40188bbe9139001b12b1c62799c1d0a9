@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Hello World - input Form</title>
+
+</head>
+
+<body>
+
+	<form action="processForm" method="GET">
+	</form>
+
+</body>
+
+</html>

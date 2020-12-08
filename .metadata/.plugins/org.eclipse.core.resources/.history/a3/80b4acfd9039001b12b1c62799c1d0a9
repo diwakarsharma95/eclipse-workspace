@@ -1,0 +1,9 @@
+package com.springdemo.mvc;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HelloWorldController {
+
+	// need a controller method to show the intitial 
+}
