@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+Hello world of Spring!
+
+<br>
+
+Student name: ${p} 
+
+</body>
+
+</html>
