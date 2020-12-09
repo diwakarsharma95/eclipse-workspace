@@ -92,3 +92,10 @@
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:13:21:18 +1000] "GET /spring-mvc-demo/ HTTP/1.1" 200 140
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:13:21:28 +1000] "GET /spring-mvc-demo/hello/showForm HTTP/1.1" 200 271
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:13:21:33 +1000] "GET /spring-mvc-demo/hello/processFormVersionThree?studentName=Mike HTTP/1.1" 200 147
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:57:23 +1000] "GET /spring-mvc-demo/ HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:57:28 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 404 682
+127.0.0.1 - - [09/Dec/2020:14:57:53 +1000] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:57:56 +1000] "GET /spring-mvc-demo/ HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:57:58 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 500 6585
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:58:37 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 395
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:58:46 +1000] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 143
