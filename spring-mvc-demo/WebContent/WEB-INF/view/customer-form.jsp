@@ -7,6 +7,8 @@
 </head>
 
 <body>
+
+<p>Fill out the form. Astrisk(*) means required.</p>
 	
 	<form:form action="processForm" modelAttribute="customer">
 	
@@ -14,8 +16,12 @@
 		
 		<br><br>
 		
-		Last name: <form:input path="lastName"/>
+		Last name(*): <form:input path="lastName"/>
 		<form:errors path="LastName" cssClass="error"/>
+		
+		<br><br>
+	
+		<input type="submit" value="Submit" />
 	
 	</form:form>
 
