@@ -99,3 +99,6 @@
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:57:58 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 500 6585
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:58:37 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 395
 0:0:0:0:0:0:0:1 - - [09/Dec/2020:14:58:46 +1000] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 143
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:15:43:05 +1000] "GET /spring-mvc-demo/ HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:15:43:11 +1000] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 673
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:15:43:24 +1000] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 169

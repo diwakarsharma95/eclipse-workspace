@@ -18,6 +18,18 @@
 	
 	<br><br>
 	
+	<form:select path="country">
+	
+		<form:option value="Brazil" label="Brazil" />
+		<form:option value="France" label="France" />
+		<form:option value="Germany" label="Germany" />
+		<form:option value="India" label="India" />
+		<form:option value="Australia" label="Australia" />
+	
+	</form:select>
+	
+	<br><br>
+	
 	<input type="submit" value="Submit" />
 	
 	</form:form>
