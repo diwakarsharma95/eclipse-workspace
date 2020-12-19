@@ -1,6 +1,0 @@
-package com.springdemo.mvc;
-
-@Con
-public class HelloWorldController {
-
-}
